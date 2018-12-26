@@ -13,6 +13,7 @@ This is example is to shoe difference of the Git repositoryand various commands
 
 ## Purpose
 
+As stated above,the main purpose is to provide simaple eampslfl
 
 
 Sample website with plenty of files for demos
@@ -21,4 +22,5 @@ Sample website with plenty of files for demos
 
 #contribution
 
+this is a simple websire
 Practice
