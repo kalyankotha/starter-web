@@ -7,9 +7,13 @@ This repository is for showing how Git and GitHub work
 
 2nd files edited
 
+#Intriduction
 
+This is example is to shoe difference of the Git repositoryand various commands
 
 ## Purpose
+
+
 
 Sample website with plenty of files for demos
 
